@@ -32,6 +32,5 @@ We welcome contributions from the community!
 ### To contribute:
 1. Fork this repository.
 2. Add your new data in the mineralTDMeasured file — including the oxide or element wt% dataand all relevant metadata (e.g., mineral name, rock type, DOI, etc.).
-3. Open a pull request so others can review and merge your contribution into the main dataset.
-
+3. Open a pull request so your data can be included in the main dataset after a quick format and quality check.
 
